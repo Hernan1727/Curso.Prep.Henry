@@ -3,5 +3,6 @@ para almacenar arreglos
 2- String es un tipo de dato que indica que ese dato es un caracter o una cadena de caracteres
 3- Funciones es una invocacion que nos permite realizar cambios a las variables que nos envia 
 el usuario y este va a retornar un valor que el usuario desea, esta Funcion tiene un argumento 
-que seria la condicion y return nos permite mostrar el resultado de la funcion
+que seria los tipos de datos que recibe puede ser cualquier tipo de dato
+ y return nos permite mostrar el resultado de la funcion
 4- booleanos son un tipo de dato que tiene como dato true o false 
