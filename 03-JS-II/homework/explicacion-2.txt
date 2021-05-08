@@ -1,0 +1,5 @@
+1- for se utiliza para recalizar tareas de manera repetitiva hasta llegar a un maximo establecido
+2- && esto significa AND que para que se cumpla la condicion tiene que ser true ambas codiciones
+|| doble barra significa OR que puede ser true uno de las 2 condiciones puestas
+! el signo de admiracion significa NOT y sirve para invertir resultados o con el = puede significar
+diferencia 
